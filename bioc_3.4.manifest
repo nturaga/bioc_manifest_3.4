@@ -1,0 +1,2395 @@
+## Blank lines between all entries
+Package: Biobase
+
+Package: DynDoc
+
+Package: annotate
+
+Package: genefilter
+
+Package: geneplotter
+
+Package: multtest
+
+Package: ctc
+
+Package: ROC
+
+Package: tkWidgets
+
+Package: affyio
+
+Package: preprocessCore
+
+Package: affy
+
+Package: vsn
+
+Package: graph
+
+Package: makecdfenv
+
+Package: widgetTools
+
+Package: Rgraphviz
+
+Package: affycomp
+
+Package: limma
+
+Package: splicegear
+
+Package: gcrma
+
+Package: siggenes
+
+Package: annaffy
+
+Package: daMA
+
+Package: gpls
+
+Package: MeasurementError.cor
+
+Package: factDesign
+
+Package: affyPLM
+
+Package: RBGL
+
+Package: webbioc
+
+Package: ecolitk
+
+Package: affypdnn
+
+Package: simpleaffy
+
+Package: LPE
+
+Package: pickgene
+
+Package: IRanges
+
+Package: Biostrings
+
+Package: qvalue
+
+Package: impute
+
+Package: rama
+
+Package: Icens
+
+Package: EBarrays
+
+Package: PROcess
+
+Package: altcdfenvs
+
+Package: arrayQuality
+
+Package: goTools
+
+Package: affylmGUI
+
+Package: limmaGUI
+
+Package: marray
+
+Package: convert
+
+Package: prada
+
+Package: DNAcopy
+
+Package: GOstats
+
+Package: aCGH
+
+Package: HEM
+
+Package: GraphAT
+
+Package: MergeMaid
+
+Package: globaltest
+
+Package: OLIN
+
+Package: MLInterfaces
+
+Package: nnNorm
+
+Package: genArise
+
+Package: GLAD
+
+Package: twilight
+
+Package: hopach
+
+Package: OLINgui
+
+Package: DEDS
+
+Package: stepNorm
+
+Package: MVCClass
+
+Package: macat
+
+Package: SBMLR
+
+Package: sagenhaft
+
+Package: bioDist
+
+Package: CoCiteStats
+
+Package: apComplex
+
+Package: plier
+
+Package: biomaRt
+
+Package: made4
+
+Package: spotSegmentation
+
+Package: tilingArray
+
+Package: safe
+
+Package: plgem
+
+Package: RankProd
+
+Package: xcms
+
+Package: MiPP
+
+Package: idiogram
+
+Package: geneRecommender
+
+Package: ssize
+
+Package: bridge
+
+Package: hypergraph
+
+Package: Category
+
+Package: GeneMeta
+
+Package: oligo
+
+Package: clusterStab
+
+Package: pdmclass
+
+Package: affyQCReport
+
+Package: fdrame
+
+Package: LMGene
+
+Package: diffGeneAnalysis
+
+Package: timecourse
+
+Package: reb
+
+Package: maanova
+
+Package: affxparser
+
+Package: biocViews
+
+Package: GlobalAncova
+
+Package: maSigPro
+
+Package: RLMM
+
+Package: affycoretools
+
+Package: MANOR
+
+Package: MantelCorr
+
+Package: panp
+
+Package: pathRender
+
+Package: GEOquery
+
+Package: codelink
+
+Package: metaArray
+
+Package: snapCGH
+
+Package: sscore
+
+Package: ScISI
+
+Package: beadarray
+
+Package: Mfuzz
+
+Package: adSplit
+
+Package: copa
+
+Package: sizepower
+
+Package: SNPchip
+
+Package: EBImage
+
+Package: OCplus
+
+Package: Heatplus
+
+Package: maCorrPlot
+
+Package: nudge
+
+Package: cghMCR
+
+Package: OrderedList
+
+Package: logicFS
+
+Package: BSgenome
+
+Package: TypeInfo
+
+Package: gaggle
+
+Package: sigPathway
+
+Package: ABarray
+
+Package: Harshlight
+
+Package: quantsmooth
+
+Package: aroma.light
+
+Package: pcot2
+
+Package: spikeLI
+
+Package: BioMVCClass
+
+Package: lapmix
+
+Package: GGtools
+
+Package: beadarraySNP
+
+Package: pkgDepTools
+
+Package: splots
+
+Package: SAGx
+
+Package: nem
+
+Package: pcaMethods
+
+Package: RbcBook1
+
+Package: ppiStats
+
+Package: flowCore
+
+Package: flowUtils
+
+Package: flowQ
+
+Package: flowViz
+
+Package: AnnotationDbi
+
+Package: RefPlus
+
+Package: occugene
+
+Package: lumi
+
+Package: pdInfoBuilder
+
+Package: BufferedMatrix
+
+Package: BufferedMatrixMethods
+
+Package: GeneticsDesign
+
+Package: seqLogo
+
+Package: topGO
+
+Package: annotationTools
+
+Package: LBE
+
+Package: SLqPCR
+
+Package: rHVDM
+
+Package: CALIB
+
+Package: PGSEA
+
+Package: Ringo
+
+Package: ACME
+
+Package: MassSpecWavelet
+
+Package: GeneticsPed
+
+Package: CORREP
+
+Package: oneChannelGUI
+
+Package: rbsurv
+
+Package: bgx
+
+Package: puma
+
+Package: GSEABase
+
+Package: cellHTS2
+
+Package: biocGraph
+
+Package: keggorthology
+
+Package: SMAP
+
+Package: explorase
+
+Package: vbmp
+
+Package: arrayQualityMetrics
+
+Package: CGHcall
+
+Package: AffyExpress
+
+Package: oligoClasses
+
+Package: VanillaICE
+
+Package: OutlierD
+
+Package: bgafun
+
+Package: rsbml
+
+Package: maigesPack
+
+Package: yaqcaffy
+
+Package: Rdisop
+
+Package: xps
+
+Package: Rtreemix
+
+Package: BiocCaseStudies
+
+Package: BGmix
+
+Package: plw
+
+Package: gaga
+
+Package: SLGI
+
+Package: PCpheno
+
+Package: BAC
+
+Package: XDE
+
+Package: GraphAlignment
+
+Package: mdqc
+
+Package: BCRANK
+
+Package: snpStats
+
+Package: GSEAlm
+
+Package: affyPara
+
+Package: flowClust
+
+Package: GeneSelector
+
+Package: GEOmetadb
+
+Package: GenomeGraphs
+
+Package: RBioinf
+
+Package: rtracklayer
+
+Package: GGBase
+
+Package: AffyCompatible
+
+Package: goProfiles
+
+Package: ShortRead
+
+Package: LPEadj
+
+Package: CGHbase
+
+Package: CGHregions
+
+Package: CMA
+
+Package: HELP
+
+Package: SIM
+
+Package: miRNApath
+
+Package: multiscan
+
+Package: minet
+
+Package: iterativeBMA
+
+Package: ITALICS
+
+Package: iterativeBMAsurv
+
+Package: DFP
+
+Package: domainsignatures
+
+Package: RpsiXML
+
+Package: logitT
+
+Package: PLPE
+
+Package: edgeR
+
+Package: MEDME
+
+Package: ArrayTools
+
+Package: microRNA
+
+Package: RNAither
+
+Package: ArrayExpress
+
+Package: KCsmart
+
+Package: ChemmineR
+
+Package: parody
+
+Package: xmapbridge
+
+Package: affyContam
+
+Package: arrayMvout
+
+Package: BicARE
+
+Package: HilbertVis
+
+Package: HilbertVisGUI
+
+Package: flagme
+
+Package: MCRestimate
+
+Package: GOSemSim
+
+Package: KEGGgraph
+
+Package: qpgraph
+
+Package: spkTools
+
+Package: tspair
+
+Package: SPIA
+
+Package: metahdep
+
+Package: CAMERA
+
+Package: genomeIntervals
+
+Package: PAnnBuilder
+
+Package: GeneSelectMMD
+
+Package: betr
+
+Package: crlmm
+
+Package: dyebias
+
+Package: qpcrNorm
+
+Package: SSPA
+
+Package: GeneRegionScan
+
+Package: rMAT
+
+Package: flowStats
+
+Package: TargetSearch
+
+Package: Rmagpie
+
+Package: methylumi
+
+Package: CNTools
+
+Package: RmiR
+
+Package: chipseq
+
+Package: flowMerge
+
+Package: flowFP
+
+Package: BUS
+
+Package: RPA
+
+Package: ddCt
+
+Package: ChIPpeakAnno
+
+Package: Starr
+
+Package: mBPCR
+
+Package: ChIPsim
+
+Package: plateCore
+
+Package: MiChip
+
+Package: clippda
+
+Package: AgiMicroRna
+
+Package: RTCA
+
+Package: GenomicFeatures
+
+Package: CGHnormaliter
+
+Package: cycle
+
+Package: baySeq
+
+Package: GeneAnswers
+
+Package: ChromHeatMap
+
+Package: ChIPseqR
+
+Package: HTqPCR
+
+Package: CNVtools
+
+Package: LiquidAssociation
+
+Package: BioSeqClass
+
+Package: DEGseq
+
+Package: SpeCond
+
+Package: Genominator
+
+Package: eisa
+
+Package: CSAR
+
+Package: DESeq
+
+Package: frma
+
+Package: frmaTools
+
+Package: hyperdraw
+
+Package: ConsensusClusterPlus
+
+Package: iChip
+
+Package: rGADEM
+
+Package: methVisual
+
+Package: pint
+
+Package: MassArray
+
+Package: charm
+
+Package: SamSPECTRAL
+
+Package: segmentSeq
+
+Package: GenomicRanges
+
+Package: genoCN
+
+Package: BeadDataPackR
+
+Package: MotIV
+
+Package: girafe
+
+Package: Rsamtools
+
+Package: ExpressionView
+
+Package: tigre
+
+Package: goseq
+
+Package: BayesPeak
+
+Package: SRAdb
+
+Package: PICS
+
+Package: flowMeans
+
+Package: PROMISE
+
+Package: GEOsubmission
+
+Package: GSRI
+
+Package: flowTrans
+
+Package: genomes
+
+Package: affyILM
+
+Package: attract
+
+Package: fabia
+
+Package: BHC
+
+Package: coRNAi
+
+Package: NTW
+
+Package: MBCB
+
+Package: IsoGeneGUI
+
+Package: CoGAPS
+
+Package: BioNet
+
+Package: CGEN
+
+Package: HTSanalyzeR
+
+Package: imageHTS
+
+Package: RDRToolbox
+
+Package: NuPoP
+
+Package: RCytoscape
+
+Package: farms
+
+Package: Mulcom
+
+Package: les
+
+Package: SQUADD
+
+Package: OTUbase
+
+Package: netresponse
+
+Package: iSeq
+
+Package: LVSmiRNA
+
+Package: gage
+
+Package: CRImage
+
+Package: ontoCAT
+
+Package: rnaSeqMap
+
+Package: GeneGA
+
+Package: R453Plus1Toolbox
+
+Package: ADaCGH2
+
+Package: MEDIPS
+
+Package: DEGraph
+
+Package: MLP
+
+Package: phenoDist
+
+Package: IPPD
+
+Package: gaia
+
+Package: snm
+
+Package: TEQC
+
+Package: TurboNorm
+
+Package: Vega
+
+Package: Clonality
+
+Package: mgsa
+
+Package: seqbias
+
+Package: TDARACNE
+
+Package: phenoTest
+
+Package: ExiMiR
+
+Package: mosaics
+
+Package: chopsticks
+
+Package: pvac
+
+Package: joda
+
+Package: procoil
+
+Package: RNAinteract
+
+Package: clst
+
+Package: clstutils
+
+Package: inveRsion
+
+Package: clusterProfiler
+
+Package: MSnbase
+
+Package: ibh
+
+Package: flowPlots
+
+Package: AnnotationFuncs
+
+Package: ENVISIONQuery
+
+Package: cn.farms
+
+Package: mcaGUI
+
+Package: Rsubread
+
+Package: genefu
+
+Package: survcomp
+
+Package: genoset
+
+Package: qrqc
+
+Package: lol
+
+Package: NCIgraph
+
+Package: a4Base
+
+Package: a4Preproc
+
+Package: a4Classif
+
+Package: a4Core
+
+Package: a4Reporting
+
+Package: a4
+
+Package: anota
+
+Package: GSVA
+
+Package: BiocInstaller
+
+Package: ArrayExpressHTS
+
+Package: flowWorkspace
+
+Package: REDseq
+
+Package: zlibbioc
+
+Package: RCASPAR
+
+Package: DOSE
+
+Package: DEXSeq
+
+Package: randPack
+
+Package: cqn
+
+Package: Repitools
+
+Package: flowType
+
+Package: ReadqPCR
+
+Package: Cormotif
+
+Package: GOFunction
+
+Package: IdMappingRetrieval
+
+Package: GRENITS
+
+Package: htSeqTools
+
+Package: RamiGO
+
+Package: RedeR
+
+Package: nucleR
+
+Package: NormqPCR
+
+Package: Streamer
+
+Package: VariantAnnotation
+
+Package: TSSi
+
+Package: PREDA
+
+Package: iontree
+
+Package: rqubic
+
+Package: mzR
+
+Package: GeneExpressionSignature
+
+Package: graphite
+
+Package: weaver
+
+Package: PANR
+
+Package: RTopper
+
+Package: DTA
+
+Package: EDASeq
+
+Package: dks
+
+Package: DiffBind
+
+Package: AGDEX
+
+Package: biovizBase
+
+Package: CNAnorm
+
+Package: cummeRbund
+
+Package: DECIPHER
+
+Package: GWASTools
+
+Package: minfi
+
+Package: predictionet
+
+Package: stepwiseCM
+
+Package: sva
+
+Package: r3Cseq
+
+Package: ggbio
+
+Package: MmPalateMiRNA
+
+Package: isobar
+
+Package: exomeCopy
+
+Package: ReQON
+
+Package: CellNOptR
+
+Package: tweeDEseq
+
+Package: ncdfFlow
+
+Package: cn.mops
+
+Package: fastseg
+
+Package: trigger
+
+Package: BiocGenerics
+
+Package: sigaR
+
+Package: ASEB
+
+Package: AffyRNADegradation
+
+Package: maskBAD
+
+Package: GEWIST
+
+Package: easyRNASeq
+
+Package: rhdf5
+
+Package: pcaGoPromoter
+
+Package: manta
+
+Package: BAGS
+
+Package: DART
+
+Package: phyloseq
+
+Package: deepSNV
+
+Package: Gviz
+
+Package: ternarynet
+
+Package: gwascat
+
+Package: NarrowPeaks
+
+Package: QUALIFIER
+
+Package: PING
+
+Package: BRAIN
+
+Package: IdMappingAnalysis
+
+Package: ffpe
+
+Package: coGPS
+
+Package: HybridMTest
+
+Package: BrainStars
+
+Package: birta
+
+Package: ReactomePA
+
+Package: cellGrowth
+
+Package: gprege
+
+Package: VegaMC
+
+Package: RchyOptimyx
+
+Package: BitSeq
+
+Package: CancerMutationAnalysis
+
+Package: iBBiG
+
+Package: cnvGSA
+
+Package: HiTC
+
+Package: EBcoexpress
+
+Package: iASeq
+
+Package: MinimumDistance
+
+Package: motifRG
+
+Package: categoryCompare
+
+Package: DirichletMultinomial
+
+Package: ddgraph
+
+Package: cancerclass
+
+Package: staRank
+
+Package: MiRaGE
+
+Package: rols
+
+Package: flowQB
+
+Package: annmap
+
+Package: flowPeaks
+
+Package: FunciSNP
+
+Package: DSS
+
+Package: PWMEnrich
+
+Package: AnnotationForge
+
+Package: OSAT
+
+Package: KEGGprofile
+
+Package: RGalaxy
+
+Package: synapter
+
+Package: bsseq
+
+Package: DBChIP
+
+Package: gmapR
+
+Package: CorMut
+
+Package: iPAC
+
+Package: networkBMA
+
+Package: waveTiling
+
+Package: triform
+
+Package: PADOG
+
+Package: RMassBank
+
+Package: ChIPXpress
+
+Package: MotifDb
+
+Package: GeneNetworkBuilder
+
+Package: EasyqpcR
+
+Package: CNORfuzzy
+
+Package: methyAnalysis
+
+Package: fmcsR
+
+Package: lmdme
+
+Package: OrganismDbi
+
+Package: hapFabia
+
+Package: hpar
+
+Package: Risa
+
+Package: gCMAP
+
+Package: motifStack
+
+Package: DeconRNASeq
+
+Package: ReportingTools
+
+Package: SCAN.UPC
+
+Package: agilp
+
+Package: CNORdt
+
+Package: bigmemoryExtras
+
+Package: CNORode
+
+Package: HMMcopy
+
+Package: HTSeqGenie
+
+Package: Rcade
+
+Package: TransView
+
+Package: NOISeq
+
+Package: chroGPS
+
+Package: VariantTools
+
+Package: rSFFreader
+
+Package: matchBox
+
+Package: RIPSeeker
+
+Package: illuminaio
+
+Package: SNAGEE
+
+Package: UniProt.ws
+
+Package: plrs
+
+Package: BiocParallel
+
+Package: pvca
+
+Package: pRoloc
+
+Package: DriverNet
+
+Package: bumphunter
+
+Package: wateRmelon
+
+Package: ensemblVEP
+
+Package: GraphPAC
+
+Package: iBMQ
+
+Package: RSVSim
+
+Package: rTANDEM
+
+Package: Rbowtie
+
+Package: QuasR
+
+Package: KEGGREST
+
+Package: casper
+
+Package: clipper
+
+Package: PathNet
+
+Package: DrugVsDisease
+
+Package: MethylSeekR
+
+Package: HTSFilter
+
+Package: rBiopaxParser
+
+Package: lpNet
+
+Package: MineICA
+
+Package: cisPath
+
+Package: biomvRCNS
+
+Package: CAGEr
+
+Package: chimera
+
+Package: DESeq2
+
+Package: proteinProfiles
+
+Package: SANTA
+
+Package: gCMAPWeb
+
+Package: ARRmNormalization
+
+Package: deltaGseg
+
+Package: dexus
+
+Package: epigenomix
+
+Package: HCsnip
+
+Package: pathview
+
+Package: RNASeqPower
+
+Package: SeqArray
+
+Package: SPEM
+
+Package: BaseSpaceR
+
+Package: CNORfeeder
+
+Package: eiR
+
+Package: ROntoTools
+
+Package: AnnotationHub
+
+Package: metagenomeSeq
+
+Package: SeqGSEA
+
+Package: geNetClassifier
+
+Package: copynumber
+
+Package: antiProfiles
+
+Package: PAPi
+
+Package: GENE.E
+
+Package: piano
+
+Package: prebs
+
+Package: triplex
+
+Package: BiSeq
+
+Package: SplicingGraphs
+
+Package: sSeq
+
+Package: XVector
+
+Package: clonotypeR
+
+Package: flowFit
+
+Package: plethy
+
+Package: EBSeq
+
+Package: prot2D
+
+Package: tRanslatome
+
+Package: vtpnet
+
+Package: flowBeads
+
+Package: spliceR
+
+Package: cleaver
+
+Package: customProDB
+
+Package: mitoODE
+
+Package: NetSAM
+
+Package: paircompviz
+
+Package: pathifier
+
+Package: RDAVIDWebService
+
+Package: rTRM
+
+Package: maPredictDSC
+
+Package: BiocStyle
+
+Package: cleanUpdTSeq
+
+Package: OmicCircos
+
+Package: seqCNA
+
+Package: SigFuge
+
+Package: TargetScore
+
+Package: CSSP
+
+Package: cobindR
+
+Package: intansv
+
+Package: msmsEDA
+
+Package: RRHO
+
+Package: msmsTests
+
+Package: Rchemcpp
+
+Package: rfPred
+
+Package: RTN
+
+Package: SeqVarTools
+
+Package: SpacePAC
+
+Package: trio
+
+Package: SwimR
+
+Package: supraHex
+
+Package: ASSET
+
+Package: ChemmineOB
+
+Package: qusage
+
+Package: TCC
+
+Package: BiGGR
+
+Package: chipenrich
+
+Package: Roleswitch
+
+Package: BADER
+
+Package: mzID
+
+Package: ArrayTV
+
+Package: BiRewire
+
+Package: GOSim
+
+Package: omicade4
+
+Package: ProCoNA
+
+Package: rTRMui
+
+Package: SimBindProfiles
+
+Package: STRINGdb
+
+Package: AllelicImbalance
+
+Package: ampliQueso
+
+Package: bioassayR
+
+Package: CexoR
+
+Package: dagLogo
+
+Package: epivizr
+
+Package: exomePeak
+
+Package: flowMap
+
+Package: methylMnM
+
+Package: MSstats
+
+Package: openCyto
+
+Package: qcmetrics
+
+Package: shinyTANDEM
+
+Package: spliceSites
+
+Package: sRAP
+
+Package: TFBSTools
+
+Package: FGNet
+
+Package: flipflop
+
+Package: ChAMP
+
+Package: interactiveDisplay
+
+Package: metaSeq
+
+Package: h5vc
+
+Package: PSICQUIC
+
+Package: CNVrd2
+
+Package: GenomicAlignments
+
+Package: GOTHiC
+
+Package: CRISPRseek
+
+Package: mmnet
+
+Package: PECA
+
+Package: flowMatch
+
+Package: ccrepe
+
+Package: PhenStat
+
+Package: roar
+
+Package: flowBin
+
+Package: geneRxCluster
+
+Package: COHCAP
+
+Package: GeneOverlap
+
+Package: AtlasRDF
+
+Package: BEAT
+
+Package: iClusterPlus
+
+Package: biosvd
+
+Package: ELBOW
+
+Package: savR
+
+Package: trackViewer
+
+Package: GenomeInfoDb
+
+Package: SomaticSignatures
+
+Package: Mirsynergy
+
+Package: MIMOSA
+
+Package: CNEr
+
+Package: COMPASS
+
+Package: GSCA
+
+Package: CopyNumber450k
+
+Package: sangerseqR
+
+Package: unifiedWMWqPCR
+
+Package: DMRcate
+
+Package: EDDA
+
+Package: scsR
+
+Package: Clomial
+
+Package: dualKS
+
+Package: alsace
+
+Package: Basic4Cseq
+
+Package: CAFE
+
+Package: INPower
+
+Package: massiR
+
+Package: metaseqR
+
+Package: MLSeq
+
+Package: rpx
+
+Package: QDNAseq
+
+Package: Rcpi
+
+Package: sapFinder
+
+Package: UNDO
+
+Package: viper
+
+Package: messina
+
+Package: nondetects
+
+Package: ASSIGN
+
+Package: ABSSeq
+
+Package: ChIPQC
+
+Package: CompGO
+
+Package: flowCyBar
+
+Package: FRGEpistasis
+
+Package: Rariant
+
+Package: BiocCheck
+
+Package: flowCL
+
+Package: metaMS
+
+Package: CoverageView
+
+Package: VariantFiltering
+
+Package: DMRforPairs
+
+Package: Sushi
+
+Package: npGSEA
+
+Package: TitanCNA
+
+Package: compcodeR
+
+Package: RefNet
+
+Package: gaucho
+
+Package: GenomicFiles
+
+Package: MeSHDbi
+
+Package: meshr
+
+Package: NetPathMiner
+
+Package: ChIPseeker
+
+Package: fastLiquidAssociation
+
+Package: S4Vectors
+
+Package: hiAnnotator
+
+Package: blima
+
+Package: monocle
+
+Package: HDTD
+
+Package: MoPS
+
+Package: DupChecker
+
+Package: MethylAid
+
+Package: proteoQC
+
+Package: flowClean
+
+Package: cosmiq
+
+Package: wavClusteR
+
+Package: RUVSeq
+
+Package: GSAR
+
+Package: DEGreport
+
+Package: RGSEA
+
+Package: ssviz
+
+Package: Pbase
+
+Package: riboSeqR
+
+Package: DOQTL
+
+Package: flowDensity
+
+Package: oposSOM
+
+Package: pepStat
+
+Package: Polyfit
+
+Package: pRolocGUI
+
+Package: Pviz
+
+Package: shinyMethyl
+
+Package: GSReg
+
+Package: MEIGOR
+
+Package: mQTL.NMR
+
+Package: MultiMed
+
+Package: netbiov
+
+Package: OncoSimulR
+
+Package: missMethyl
+
+Package: ballgown
+
+Package: STAN
+
+Package: interactiveDisplayBase
+
+Package: metabomxtr
+
+Package: metagene
+
+Package: ClassifyR
+
+Package: M3D
+
+Package: miRNAtap
+
+Package: MPFE
+
+Package: RUVnormalize
+
+Package: SemDist
+
+Package: quantro
+
+Package: compEpiTools
+
+Package: erccdashboard
+
+Package: hiReadsProcessor
+
+Package: MBASED
+
+Package: methylPipe
+
+Package: MethylMix
+
+Package: Rnits
+
+Package: switchBox
+
+Package: FourCSeq
+
+Package: SNPRelate
+
+Package: NGScopy
+
+Package: rain
+
+Package: TSCAN
+
+Package: GOsummaries
+
+Package: geecc
+
+Package: seqplots
+
+Package: systemPipeR
+
+Package: EnrichmentBrowser
+
+Package: GOexpress
+
+Package: MSnID
+
+Package: simulatorZ
+
+Package: MGFM
+
+Package: rRDP
+
+Package: GenomicInteractions
+
+Package: PSEA
+
+Package: ALDEx2
+
+Package: polyester
+
+Package: MSGFplus
+
+Package: derfinder
+
+Package: derfinderPlot
+
+Package: derfinderHelper
+
+Package: regionReport
+
+Package: FEM
+
+Package: MSGFgui
+
+Package: IdeoViz
+
+Package: proBAMr
+
+Package: ASGSCA
+
+Package: PAA
+
+Package: paxtoolsr
+
+Package: flowcatchR
+
+Package: focalCall
+
+Package: GenomicTuples
+
+Package: MAIT
+
+Package: flowCHIC
+
+Package: SigCheck
+
+Package: csaw
+
+Package: STATegRa
+
+Package: SGSeq
+
+Package: CoRegNet
+
+Package: mvGST
+
+Package: groHMM
+
+Package: facopy
+
+Package: IMPCdata
+
+Package: kebabs
+
+Package: ToPASeq
+
+Package: tracktables
+
+Package: BridgeDbR
+
+Package: MBAmethyl
+
+Package: Rqc
+
+Package: CFAssay
+
+Package: COSNet
+
+Package: specL
+
+Package: EBSeqHMM
+
+Package: mygene
+
+Package: seqTools
+
+Package: pepXMLTab
+
+Package: Metab
+
+Package: AIMS
+
+Package: genomation
+
+Package: saps
+
+Package: QuartPAC
+
+Package: cpvSNP
+
+Package: nethet
+
+Package: PROPER
+
+Package: gQTLBase
+
+Package: gQTLstats
+
+Package: FlowSOM
+
+Package: mdgsa
+
+Package: rgsepd
+
+Package: AnalysisPageServer
+
+Package: chromDraw
+
+Package: CODEX
+
+Package: coMET
+
+Package: gespeR
+
+Package: RnaSeqSampleSize
+
+Package: TRONCO
+
+Package: gdsfmt
+
+Package: mAPKL
+
+Package: MeSHSim
+
+Package: seqPattern
+
+Package: parglms
+
+Package: ggtree
+
+Package: seq2pathway
+
+Package: cytofkit
+
+Package: IVAS
+
+Package: GreyListChIP
+
+Package: Cardinal
+
+Package: sincell
+
+Package: HIBAG
+
+Package: birte
+
+Package: rGREAT
+
+Package: BubbleTree
+
+Package: ProtGenerics
+
+Package: SELEX
+
+Package: sigsquared
+
+Package: skewr
+
+Package: Rhtslib
+
+Package: BrowserViz
+
+Package: muscle
+
+Package: canceR
+
+Package: diggit
+
+Package: immunoClust
+
+Package: LEA
+
+Package: MatrixRider
+
+Package: netbenchmark
+
+Package: RNAprobR
+
+Package: SIMAT
+
+Package: bamsignals
+
+Package: GENESIS
+
+Package: InPAS
+
+Package: TIN
+
+Package: ensembldb
+
+Package: gtrellis
+
+Package: rcellminer
+
+Package: LowMACA
+
+Package: podkat
+
+Package: RBM
+
+Package: ComplexHeatmap
+
+Package: pmm
+
+Package: regioneR
+
+Package: DMRcaller
+
+Package: FISHalyseR
+
+Package: mogsa
+
+Package: OmicsMarkeR
+
+Package: RUVcorr
+
+Package: SVM2CRM
+
+Package: BrowserVizDemo
+
+Package: cogena
+
+Package: CopywriteR
+
+Package: GoogleGenomics
+
+Package: NanoStringQCPro
+
+Package: TPP
+
+Package: RCyjs
+
+Package: conumee
+
+Package: MethTargetedNGS
+
+Package: soGGi
+
+Package: ENmix
+
+Package: pandaR
+
+Package: R3CPET
+
+Package: FlowRepositoryR
+
+Package: diffHic
+
+Package: CAnD
+
+Package: ENCODExplorer
+
+Package: flowVS
+
+Package: RnBeads
+
+Package: msa
+
+Package: similaRpeak
+
+Package: pwOmics
+
+Package: edge
+
+Package: EMDomics
+
+Package: BEclear
+
+Package: SummarizedExperiment
+
+Package: RTCGAToolbox
+
+Package: CausalR
+
+Package: acde
+
+Package: OperaMate
+
+Package: RareVariantVis
+
+Package: caOmicsV
+
+Package: hierGWAS
+
+Package: SEPA
+
+Package: mirIntegrator
+
+Package: PGA
+
+Package: erma
+
+Package: IONiseR
+
+Package: fCI
+
+Package: CNVPanelizer
+
+Package: XBSeq
+
+Package: Prize
+
+Package: INSPEcT
+
+Package: rnaseqcomp
+
+Package: DeMAND
+
+Package: rCGH
+
+Package: ropls
+
+Package: genotypeeval
+
+Package: miRLAB
+
+Package: OGSA
+
+Package: traseR
+
+Package: LedPred
+
+Package: HilbertCurve
+
+Package: destiny
+
+Package: variancePartition
+
+Package: Oscope
+
+Package: eudysbiome
+
+Package: NanoStringDiff
+
+Package: synlet
+
+Package: ABAEnrichment
+
+Package: TCGAbiolinks
+
+Package: BBCAnalyzer
+
+Package: ChIPComp
+
+Package: myvariant
+
+Package: Path2PPI
+
+Package: ldblock
+
+Package: GEOsearch
+
+Package: sevenbridges
+
+Package: AnnotationHubData
+
+Package: iGC
+
+Package: LOLA
+
+Package: motifbreakR
+
+Package: ProteomicsAnnotationHubData
+
+Package: RTCGA
+
+Package: DiffLogo
+
+Package: DNABarcodes
+
+Package: dupRadar
+
+Package: EnrichedHeatmap
+
+Package: FindMyFriends
+
+Package: Guitar
+
+Package: TarSeqQC
+
+Package: DAPAR
+
+Package: gcatest
+
+Package: iCheck
+
+Package: Imetagene
+
+Package: lfa
+
+Package: MEAL
+
+Package: metagenomeFeatures
+
+Package: pathVar
+
+Package: Prostar
+
+Package: SICtools
+
+Package: SISPA
+
+Package: SWATH2stats
+
+Package: GUIDEseq
+
+Package: DChIPRep
+
+Package: GeneBreak
+
+Package: RiboProfiling
+
+Package: SNPhood
+
+Package: RCy3
+
+Package: miRcomp
+
+Package: biobroom
+
+Package: subSeq
+
+Package: CNPBayes
+
+Package: R4RNA
+
+Package: scde
+
+Package: globalSeq
+
+Package: consensusSeekeR
+
+Package: multiClust
+
+Package: Chicago
+
+Package: iCOBRA
+
+Package: FamAgg
+
+Package: BioQC
+
+Package: biomformat
+
+Package: normalize450K
+
+Package: dcGSA
+
+Package: profileScoreDist
+
+Package: transcriptR
+
+Package: lpsymphony
+
+Package: kimod
+
+Package: splineTimeR
+
+Package: CrispRVariants
+
+Package: QuaternaryProd
+
+Package: GSALightning
+
+Package: tofsims
+
+Package: ggcyto
+
+Package: cellTree
+
+Package: JunctionSeq
+
+Package: SC3
+
+Package: PanVizGenerator
+
+Package: EmpiricalBrownsMethod
+
+Package: flowAI
+
+Package: iCARE
+
+Package: GenVisR
+
+Package: IHW
+
+Package: RGraph2js
+
+Package: ROTS
+
+Package: BasicSTARRseq
+
+Package: EWCE
+
+Package: tximport
+
+Package: SMITE
+
+Package: Mergeomics
+
+Package: metaCCA
+
+Package: contiBAIT
+
+Package: clustComp
+
+Package: scater
+
+Package: ExpressionAtlas
+
+Package: RImmPort
+
+Package: chromPlot
+
+Package: cellity
+
+Package: garfield
+
+Package: GenRank
+
+Package: dada2
+
+Package: MBttest
+
+Package: ExperimentHub
+
+Package: ExperimentHubData
+
+Package: HDF5Array
+Package: MethPed
+
+Package: biosigner
+
+Package: Uniquorn
+
+Package: nucleoSim
+
+Package: miRNAmeConverter
+
+Package: psygenet2r
+
+Package: doppelgangR
+
+Package: EpiCluster
+
+Package: PCAN
+
+Package: bacon
+
+Package: SwathXtend
+
+Package: DNAshapeR
+
+Package: SpidermiR
+
+Package: DRIMSeq
+
+Package: debrowser
+
+Package: GMRP
+
+Package: ISoLDE
+
+Package: CountClust
+
+Package: OncoScore
+
+Package: AneuFinder
+
+Package: recoup
+
+Package: genphen
+
+Package: DEFormats
+
+Package: sscu
+
+Package: MultiAssayExperiment
+
+Package: GenoGAM
+
+Package: isomiRs
+
+Package: QUBIC
+
+Package: CINdex
+
+Package: EBSEA
+
+Package: BadRegionFinder
+
+Package: Linnorm
+
+Package: CONFESS
+
+Package: odseq
+
+Package: Glimma
+
+Package: scran
+
+Package: BatchQC
+
+Package: pcaExplorer
+
+Package: oppar
+
+Package: pqsfinder
+
+Package: BgeeDB
+
+Package: genbankr
+
+Package: LymphoSeq
+
+Package: pbcmc
+
+Package: InteractionSet
+
+Package: ClusterSignificance
+
+Package: PureCN
+
+Package: MultiDataSet
+
+Package: Harman
+
+Package: epivizrServer
+
+Package: epivizrData
+
+Package: diffloop
+
+Package: CHRONOS
+
+Package: EGSEA
+
+Package: MMDiff2
+
+Package: ImmuneSpaceR
+
+Package: EGAD
+
+Package: epivizrStandalone
