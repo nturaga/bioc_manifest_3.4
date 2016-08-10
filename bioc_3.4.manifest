@@ -2480,3 +2480,11 @@ Package: IPO
 
 Package: CellMapper
 
+Package: switchde
+
+Package: GRmetrics
+
+Package: CancerSubtypes
+
+Package: SVAPLSseq
+
