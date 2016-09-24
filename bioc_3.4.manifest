@@ -2514,3 +2514,7 @@ Package: signeR
 
 Package: BiocWorkflowTools
 
+Package: readat
+
+Package: BaalChIP
+
